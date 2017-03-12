@@ -1,0 +1,15 @@
+{
+  "name": "mb-substr",
+  "version": "0.0.2",
+  "description": "mb-substr - Multibyte substr",
+  "repository": "gen6033/mb-substr",
+  "keywords": ["multibyte", "substr"],
+  "author": {
+    "name": "gen6033",
+    "email": "none.null.nil@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies":{},
+  "devDependencies":{}
+}
